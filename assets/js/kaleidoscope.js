@@ -44,7 +44,7 @@ array_images.forEach((element,idx) => {
         width:10%;
         heigth:10%;
         "
-    src="./src/img/${element}.svg"/>`;
+    src="./assets/img/${element}.svg"/>`;
 });
 
 btnRandom.addEventListener("click",function() {
